@@ -1,0 +1,22 @@
+{
+  "name": "SK Hydro Protect",
+  "short_name": "SK Hydro",
+  "description": "Dachy płaskie, hydroizolacje, tarasy i balkony. Płock i powiat płocki.",
+  "lang": "pl-PL",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#101820",
+  "icons": [
+    {
+      "src": "img/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "img/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
